@@ -6,5 +6,5 @@
 int main (void)
 {
 	pritnf("with proper grammer, but the outcome is a piece of art,\n")
-		return();
+	return (0);
 }
