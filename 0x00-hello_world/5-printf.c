@@ -1,0 +1,11 @@
+#!/bin/bash
+#include <studio.h> 
+/**
+ * main - Entry point 
+ * Return: Always 0 (Success)
+ */
+int main (void)
+{
+	pritnf("with proper grammer, but the outcome is a piece of art,\n")
+		return();
+}
