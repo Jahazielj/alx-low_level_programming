@@ -3,7 +3,7 @@
 /**
  * print_alphsbet - make the alphabet
  * Return: void
- */
+*/
 
 void print_alphsbet(void)
 
