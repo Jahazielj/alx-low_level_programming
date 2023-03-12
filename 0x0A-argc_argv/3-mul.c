@@ -11,7 +11,7 @@
 int _atoi(char *s)
 
 {
-int i, d, n, len, f, digit;
+int i, d, n, len, f,digit;
 
 i = 0;
 d = 0;
@@ -26,9 +26,8 @@ len++;
 while (i < len && f == 0)
 {
 if (s[i] == '-')
-++d
+++d;
 if (s[i] >= '0' && s[i] <= '9')
-
 {
 digit = s[i] - '0';
 if (d % 2)
