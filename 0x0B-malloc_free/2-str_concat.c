@@ -29,8 +29,8 @@ conct = malloc(sizeof(char) * (i + ci + 1));
 if (conct == NULL)
 return (NULL);
 i = ci = 0;
-while (s1[i] != '\0');
 
+while (s1[i] != '\0')
 conct[i] = s1[i];
 {
 i++;
